@@ -5,7 +5,7 @@
   "env": {
     "Site": {
       "description": "自定义伪装页面，例如：https://github.com/happyevero/Html/raw/main/S-html.zip ",
-      "value": "https://github.com/happyevero/Html/raw/main/S-html.zip"
+      "value": "https://github.com/happyevero/Html/raw/main/L-html.zip"
     },
 
     "Vless_UUID": {
